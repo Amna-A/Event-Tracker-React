@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Event-Tracker-React/static/css/main.1c01342f.chunk.css",
+    "main.js": "/Event-Tracker-React/static/js/main.1c23cff5.chunk.js",
+    "main.js.map": "/Event-Tracker-React/static/js/main.1c23cff5.chunk.js.map",
+    "runtime-main.js": "/Event-Tracker-React/static/js/runtime-main.fed0d662.js",
+    "runtime-main.js.map": "/Event-Tracker-React/static/js/runtime-main.fed0d662.js.map",
+    "static/js/2.a8d942e1.chunk.js": "/Event-Tracker-React/static/js/2.a8d942e1.chunk.js",
+    "static/js/2.a8d942e1.chunk.js.map": "/Event-Tracker-React/static/js/2.a8d942e1.chunk.js.map",
+    "static/js/3.c7aedb2c.chunk.js": "/Event-Tracker-React/static/js/3.c7aedb2c.chunk.js",
+    "static/js/3.c7aedb2c.chunk.js.map": "/Event-Tracker-React/static/js/3.c7aedb2c.chunk.js.map",
+    "index.html": "/Event-Tracker-React/index.html",
+    "static/css/main.1c01342f.chunk.css.map": "/Event-Tracker-React/static/css/main.1c01342f.chunk.css.map",
+    "static/js/2.a8d942e1.chunk.js.LICENSE.txt": "/Event-Tracker-React/static/js/2.a8d942e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fed0d662.js",
+    "static/js/2.a8d942e1.chunk.js",
+    "static/css/main.1c01342f.chunk.css",
+    "static/js/main.1c23cff5.chunk.js"
+  ]
+}
