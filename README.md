@@ -4,6 +4,10 @@ This is a full-stack app using json-server as a backend.
 
 Live Demo [here](https://amna-a.github.io/Event-Tracker-React/)
 
+## DEMO:
+
+![App Demo](Demo/event-tracking-reat-test.gif)
+
 ## Usage
 
 ### Install dependencies
