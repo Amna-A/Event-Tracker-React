@@ -6,7 +6,7 @@ Live Demo [here](https://amna-a.github.io/Event-Tracker-React/)
 
 ## DEMO:
 
-![App Demo](Demo/event-tracking-reat-test.gif)
+![App Demo](Demo/event-tracking-reat-test2.gif)
 
 ## Usage
 
