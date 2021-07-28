@@ -2,6 +2,8 @@
 
 This repo is made for learning purposes
 
+Live Demo [here](https://amna-a.github.io/Event-Tracker-React/)
+
 ## Usage
 
 ### Install dependencies
